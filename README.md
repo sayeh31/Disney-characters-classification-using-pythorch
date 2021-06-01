@@ -1,6 +1,6 @@
 # Disney characters classification using pythorch
 
-![alt text](https://github.com/sayeh31/Disney-characters-classification-using-pythorch/blob/main/ezgif.com-gif-maker.gif)
+![alt text](https://github.com/sayeh31/Disney-characters-classification-using-pythorch/blob/main/training images.gif)
 
 
 
