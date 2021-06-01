@@ -12,3 +12,7 @@ Image classification is one of the most important applications of computer visio
 
 
  ![alt text](https://github.com/sayeh31/Disney-characters-classification-with-CNN-using-pythorch/blob/main/test2.png)
+ 
+ 
+ ##Dataset
+I could not find any cartoon characters dataset, so I made one from chrome and https://cartoon-clipart.co/. It contains 6000 images of six of my favorite characters: Olaf, Donald Duck, Mickey Mouse, Pumba, Minions, and Winnie the Pooh divided into training and testing sets.
