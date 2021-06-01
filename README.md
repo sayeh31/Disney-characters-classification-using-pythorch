@@ -15,4 +15,4 @@ Image classification is one of the most important applications of computer visio
  
  
 ## Dataset
-I could not find any cartoon characters dataset, so I made one by collecting images from Google image search and https://cartoon-clipart.co/. It contains over 4600 images of six of my favorite characters: Olaf, Donald Duck, Mickey Mouse, Pumba, Minions, and Winnie the Pooh divided into training and testing sets.you can download dataset from https://www.kaggle.com/sayehkargari/disney-characters-dataset
+I could not find any cartoon characters dataset, so I made one by collecting images from Google image search and https://cartoon-clipart.co/. It contains over 4600 images of six of my favorite characters: Olaf, Donald Duck, Mickey Mouse, Pumba, Minions, and Winnie the Pooh divided into training and testing sets. you can download the dataset from https://www.kaggle.com/sayehkargari/disney-characters-dataset.
